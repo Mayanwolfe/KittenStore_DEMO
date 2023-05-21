@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Creamsicle",
+    "price": 10.99,
+    "imgUrl": "/imgs/creamsicle.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Multipack",
+    "price": 1199,
+    "imgUrl": "/imgs/kitten_multipack.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Stylish Model",
+    "price": 14000,
+    "imgUrl": "/imgs/luxury_kitten.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Extra Smol",
+    "price": 1.05,
+    "imgUrl": "/imgs/TP_for_scale.jpg"
+  }
+]
