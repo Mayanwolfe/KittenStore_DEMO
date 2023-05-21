@@ -17,7 +17,7 @@ export function Navbar() {
             About
           </Nav.Link>
         </Nav>
-        <Button onClick={openCart}
+        <Button 
             style={{ width: "3rem", height: "3rem", position: "relative" }}
             variant="outline-primary"
             className="rounded-circle"
@@ -42,7 +42,7 @@ export function Navbar() {
                 transform: "translate(25%, 25%)",
               }}
             >
-              {cartQuantity}
+              
             </div>
           </Button>
       </Container>
