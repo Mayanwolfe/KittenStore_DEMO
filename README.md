@@ -1,1 +1,0 @@
-# KittenStore_DEMO
